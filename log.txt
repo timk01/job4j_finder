@@ -1,0 +1,6 @@
+C:\Duplicates\1\1.txt
+C:\Duplicates\1.txt
+C:\Duplicates\2\smth2\1.txt
+C:\Duplicates\3\1.txt
+C:\Duplicates\3\smth3\1.txt
+C:\Duplicates\3\smth3\Новая папка\1.txt
